@@ -42,7 +42,7 @@
 
 ---
 
-### ⚡ Fun Facts
+### ⚡ Updates
 
 - 🌱 Always open to collaboration and hackathons  
 - 🛠️ Working on publishing my first AI research paper  
